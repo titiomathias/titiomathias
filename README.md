@@ -43,6 +43,8 @@ class Matheus:
     def __str__(self):
         return f"""
         Pronouns: {self.pronouns}
+        Name: {self.name}
+        Codename: {self.codename}
         Skills: {', '.join(self.skills)}
         Hardskills: {', '.join(self.hardskills)}
         Softskills: {', '.join(self.softskills)}
