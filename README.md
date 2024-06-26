@@ -1,6 +1,6 @@
 <h1>Hi! I am Mathias. 👋</h1>
 
-<p><em>Full-Stack Developer, Computer Tech at <a href='https://portal.poa.ifsuldeminas.edu.br/'>Instituto Federal do Sul de Minas</a> and Software Engineer graduating at <a href='https://inatel.br/'>Inatel.</a></em></p>
+<p style="font-size:15px"><em>Full-Stack Developer, Computer Tech at <a href='https://portal.poa.ifsuldeminas.edu.br/'>Instituto Federal do Sul de Minas</a> and Software Engineer graduating at <a href='https://inatel.br/'>Inatel.</a></em></p>
 
 
 ### A little more about me: 🤓
@@ -55,8 +55,8 @@ class Matheus:
 
 ### Development Languages 🌐
 
-| [<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" alt="HTML5" width="30">](https://developer.mozilla.org/pt-BR/docs/Web/HTML) | [<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" alt="CSS3" width="30">](https://developer.mozilla.org/pt-BR/docs/Web/CSS) | [<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="JavaScript" width="24">](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript) | [<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png" alt="Bootstrap" width="24">](https://getbootstrap.com/) | [<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png" alt="PHP" width="30">](https://php.net/) | [<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/angular/angular.png" alt="Angular" width="30">](https://angular.dev/) | [<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="Python" width="30">](https://www.python.org/) |
-|---|---|---|---|---|---|---|
+| [<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" alt="HTML5" width="30">](https://developer.mozilla.org/pt-BR/docs/Web/HTML) | [<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" alt="CSS3" width="30">](https://developer.mozilla.org/pt-BR/docs/Web/CSS) | [<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="JavaScript" width="24">](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript) | [<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png" alt="Bootstrap" width="24">](https://getbootstrap.com/) | [<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png" alt="PHP" width="30">](https://php.net/) | [<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/angular/angular.png" alt="Angular" width="30">](https://angular.dev/) | [<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="python" width="30">](https://www.python.org/) | [<img src="https://downloads.marketplace.jetbrains.com/files/13954/290585/icon/pluginIcon.png" alt="prolog" width="30">](https://www.swi-prolog.org/) |  [<img src="https://raw.githubusercontent.com/github/explore/180320cffc25f4ed1bbdfd33d4db3a66eeeeb358/topics/cpp/cpp.png" alt="cpp" width="30">](https://www.dio.me/articles/c-o-que-e-e-por-que-voce-precisa-aprender-essa-linguagem) |
+|---|---|---|---|---|---|---|---|---|
 
 <br>
 
