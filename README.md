@@ -1,6 +1,6 @@
 <h1>Hi! I am Mathias. 👋</h1>
 
-<p style="font-size:16px"><em>Full-Stack Developer, Computer Tech at <a href='https://portal.poa.ifsuldeminas.edu.br/'>Instituto Federal do Sul de Minas</a> and Software Engineer graduating at <a href='https://inatel.br/'>Inatel.</a></em></p>
+<h4><em>Full-Stack Developer, Computer Tech at <a href='https://portal.poa.ifsuldeminas.edu.br/'>Instituto Federal do Sul de Minas</a> and Software Engineer graduating at <a href='https://inatel.br/'>Inatel.</a></em></h4>
 
 
 ### A little more about me: 🤓
