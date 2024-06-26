@@ -1,4 +1,4 @@
-<h1>Hi! I am Mathias. 👋</h1>
+<h1>Hi! I am Matheus/Mathias. 👋</h1>
 
 <h4><em>Full-Stack Developer, Computer Tech at <a href='https://portal.poa.ifsuldeminas.edu.br/'>Instituto Federal do Sul de Minas</a> and Software Engineer graduating at <a href='https://inatel.br/'>Inatel.</a></em></h4>
 
@@ -9,6 +9,7 @@
 class Matheus:
     def __init__(self):
         self.pronouns = "he/him"
+        self.name = "Matheus"
         self.codename = "Mathias"
         self.skills = {
             "strength": 14, 
