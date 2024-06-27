@@ -71,7 +71,7 @@ class Matheus:
 <br>
 
 ### Github Stats
-![Mathias github stats](https://github-readme-stats.vercel.app/api?username=titiomathias&show_icons=true&title_color=fff&icon_color=993399&text_color=9f9f9f&bg_color=151515)
+![Mathias github stats](https://github-readme-stats.vercel.app/api?username=titiomathias&show_icons=true&title_color=blue&icon_color=ADD8E6&text_color=9f9f9f&bg_color=151515)
 
 <br>
 
