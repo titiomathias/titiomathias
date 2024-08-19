@@ -32,7 +32,7 @@ class Matheus:
             "communication",
             "creativity"
         ]
-        self.hobbies = ["rpg", "bodybuilding", "cardgames"]
+        self.hobbies = ["rpg", "running", "cardgames"]
         self.university = "Inatel"
         self.job = (
             "company": "Leucotron",
