@@ -83,7 +83,6 @@ class Matheus:
 ### Connect with me 🤝🏻
 
 <p>
-<a href="https://www.linkedin.com/in/matheus-de-alencar-costa-oliveira-64252b25b/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-@MatheusDeAlencar-blue?style=flat&logo=linkedin"></a>
 <a href="https://www.instagram.com/matheuz_alencar/" target="_blank"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-matheuz_alencar-blue?style=flat&logo=instagram"></a>
 <a href="mailto:matheusdealencar.contato@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-matheusdealencar.contato@gmail.com-blue?style=flat&logo=gmail"></a>
 </p>
