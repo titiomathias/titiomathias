@@ -35,8 +35,7 @@ class Matheus:
         self.hobbies = ["rpg", "running", "cardgames"]
         self.university = "Inatel"
         self.job = (
-            "company": "Leucotron",
-            "position": "Developer"
+            "position": ("Developer", "Freelancer")
         )
 
 
