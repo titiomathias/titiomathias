@@ -12,7 +12,7 @@ class Matheus:
         self.name = "Matheus"
         self.codename = "Mathias"
         self.skills = {
-            "strength": 10, 
+            "strength": 12, 
             "dexterity": 9,
             "constituition": 14,
             "intelligence": 18, 
@@ -32,7 +32,7 @@ class Matheus:
             "communication",
             "creativity"
         ]
-        self.hobbies = ["rpg", "running", "cardgames"]
+        self.hobbies = ["rpg", "bodybuilding", "cardgames", "study"]
         self.university = "Inatel"
         self.job = (
             "position": ("Developer", "Freelancer")
