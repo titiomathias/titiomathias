@@ -1,6 +1,6 @@
 <h1>Hi! I am Matheus/Mathias. 👋</h1>
 
-<h4><em>Full-Stack Developer, Computer Tech at <a href='https://portal.poa.ifsuldeminas.edu.br/'>Instituto Federal do Sul de Minas</a> and Software Engineer graduating at <a href='https://inatel.br/'>Inatel.</a></em></h4>
+<h4><em>Full-Stack Developer, Ethical Hacker, Computer Tech at <a href='https://portal.poa.ifsuldeminas.edu.br/'>Instituto Federal do Sul de Minas</a> and Software Engineer graduating at <a href='https://inatel.br/'>Inatel.</a></em></h4>
 
 
 ### A little more about me: 🤓
@@ -12,11 +12,11 @@ class Matheus:
         self.name = "Matheus"
         self.codename = "Mathias"
         self.skills = {
-            "strength": 12, 
+            "strength": 13, 
             "dexterity": 9,
             "constituition": 14,
             "intelligence": 18, 
-            "wisdom": 12, 
+            "wisdom": 14, 
             "charisma": 14
         }
         self.hardskills = [
@@ -35,7 +35,8 @@ class Matheus:
         self.hobbies = ["rpg", "bodybuilding", "cardgames", "study"]
         self.university = "Inatel"
         self.job = (
-            "position": ("Developer", "Freelancer")
+            "position-1": ("Developer", "Freelancer")
+            "position-2": ("Ethical Hacker", "Trainee")
         )
 
 
