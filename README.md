@@ -12,11 +12,11 @@ class Matheus:
         self.name = "Matheus"
         self.codename = "Mathias"
         self.skills = {
-            "strength": 13, 
-            "dexterity": 9,
+            "strength": 14, 
+            "dexterity": 10,
             "constituition": 14,
             "intelligence": 18, 
-            "wisdom": 14, 
+            "wisdom": 16, 
             "charisma": 14
         }
         self.hardskills = [
