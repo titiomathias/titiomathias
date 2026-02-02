@@ -1,5 +1,11 @@
 <h1>Hi! I am Matheus/Mathias. 👋</h1>
 
+![Profile Views](https://komarev.com/ghpvc/?username=titiomathias&color=blue)
+![Stars](https://img.shields.io/github/stars/titiomathias?style=flat)
+![Followers](https://img.shields.io/github/followers/titiomathias?style=flat)
+![Last Commit](https://img.shields.io/github/last-commit/titiomathias/titiomathias)
+
+
 <h4><em>Full-Stack Developer, Ethical Hacker, Computer Tech at <a href='https://portal.poa.ifsuldeminas.edu.br/'>Instituto Federal do Sul de Minas</a> and Software Engineer graduating at <a href='https://inatel.br/'>Inatel.</a></em></h4>
 
 
@@ -34,10 +40,11 @@ class Matheus:
         ]
         self.hobbies = ["rpg", "bodybuilding", "cardgames", "study"]
         self.university = "Inatel"
-        self.job = (
-            "position-1": ("Developer", "Freelancer")
+        self.job = {
+            "position-1": ("Developer", "Freelancer"),
             "position-2": ("Ethical Hacker", "Trainee")
-        )
+        }
+
 
 
     def __str__(self):
@@ -61,6 +68,12 @@ class Matheus:
 | [<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" alt="HTML5" width="30">](https://developer.mozilla.org/pt-BR/docs/Web/HTML) | [<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" alt="CSS3" width="30">](https://developer.mozilla.org/pt-BR/docs/Web/CSS) | [<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="JavaScript" width="24">](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript) | [<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png" alt="Bootstrap" width="24">](https://getbootstrap.com/) | [<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png" alt="PHP" width="30">](https://php.net/) | [<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" alt="React" width="30">](https://react.dev) | [<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="Python" width="30">](https://www.python.org/) | [<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png" alt="Java" width="30">](https://www.java.com/) |  [<img src="https://raw.githubusercontent.com/github/explore/180320cffc25f4ed1bbdfd33d4db3a66eeeeb358/topics/cpp/cpp.png" alt="Cpp" width="30">](https://www.dio.me/articles/c-o-que-e-e-por-que-voce-precisa-aprender-essa-linguagem) |
 |---|---|---|---|---|---|---|---|---|
 
+
+![Python](https://img.shields.io/badge/Python-Expert-blue?logo=python)
+![Cybersecurity](https://img.shields.io/badge/Cybersecurity-Ethical%20Hacking-red)
+![FullStack](https://img.shields.io/badge/Full--Stack-Developer-purple)
+
+
 <br>
 
 ### Tools 🛠️
@@ -71,12 +84,13 @@ class Matheus:
 <br>
 
 ### Github Stats
-![Mathias github stats](https://github-readme-stats.vercel.app/api?username=titiomathias&show_icons=true&title_color=blue&icon_color=ADD8E6&text_color=9f9f9f&bg_color=151515)
+![Mathias github stats](https://github-readme-stats.vercel.app/api?username=titiomathias&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=86400)
 
 <br>
 
 ### Most Used Languages
-![Mathias Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=titiomathias&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=titiomathias&layout=compact&cache_seconds=86400)
+
 
 <br>
 
