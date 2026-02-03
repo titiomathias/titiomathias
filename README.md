@@ -84,12 +84,12 @@ class Matheus:
 <br>
 
 ### Github Stats
-![Mathias github stats](https://github-readme-stats.vercel.app/api?username=titiomathias&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=86400)
+![Mathias github stats](https://github-readme-stats.vercel.app/api?username=titiomathias&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github&cache_seconds=86400)
 
 <br>
 
 ### Most Used Languages
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=titiomathias&layout=compact&cache_seconds=86400)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=titiomathias&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=86400)
 
 
 <br>
