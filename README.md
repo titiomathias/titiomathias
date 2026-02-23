@@ -84,7 +84,7 @@ class Matheus:
 <br>
 
 ### Github Stats
-![Mathias github stats](https://github-readme-stats.vercel.app/api?username=titiomathias&show_icons=true&theme=radical)
+![Mathias github stats](https://mystats.discloud.app/stats?user=titiomathias)
 
 <br>
 
