@@ -84,12 +84,12 @@ class Matheus:
 <br>
 
 ### Github Stats
-![Mathias github stats](asdasdasdasd)
+![Mathias github stats](https://mystats.discloud.app/stats?user=titiomathias)
 
 <br>
 
 ### Most Used Languages
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=titiomathias&layout=compact)
+![Top Langs]()
 
 
 <br>
