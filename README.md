@@ -84,7 +84,7 @@ class Matheus:
 <br>
 
 ### Github Stats
-![Mathias github stats](https://mystats.discloud.app/stats?user=titiomathias)
+![Mathias github stats]()
 
 <br>
 
