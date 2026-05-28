@@ -8,9 +8,9 @@
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=titiomathias&color=blue" />
-  <img src="https://img.shields.io/github/followers/titiomathias?style=flat" />
-  <img src="https://img.shields.io/github/stars/titiomathias?style=flat" />
-  <img src="https://img.shields.io/github/last-commit/titiomathias/titiomathias" />
+  <img src="https://img.shields.io/github/followers/titiomathias?style=flat&v1" />
+  <img src="https://img.shields.io/github/stars/titiomathias?style=flat&v1" />
+  <img src="https://img.shields.io/github/last-commit/titiomathias/titiomathias?v1=1" />
 </p>
 
 ---
