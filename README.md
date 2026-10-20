@@ -18,7 +18,7 @@
 ## 🧠 Developer Dashboard
 
 <p align="center">
-  <img src="https://mystats.discloud.app/stats?user=titiomathias&v=10&new=true" height="680"/>
+  <img src="https://mystats.discloud.app/stats?user=titiomathias&v=10&new=TRUE" height="680"/>
 </p>
 
 ---
