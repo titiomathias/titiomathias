@@ -8,9 +8,9 @@
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=titiomathias&color=blue" />
-  <img src="https://img.shields.io/github/followers/titiomathias?style=flat&v1" />
-  <img src="https://img.shields.io/github/stars/titiomathias?style=flat&v1" />
-  <img src="https://img.shields.io/github/last-commit/titiomathias/titiomathias?v1=1" />
+  <img src="https://img.shields.io/github/followers/titiomathias?style=flat&v2" />
+  <img src="https://img.shields.io/github/stars/titiomathias?style=flat&v2" />
+  <img src="https://img.shields.io/github/last-commit/titiomathias/titiomathias?v1=2" />
 </p>
 
 ---
@@ -18,7 +18,7 @@
 ## 🧠 Developer Dashboard
 
 <p align="center">
-  <img src="https://mystats.discloud.app/stats?user=titiomathias&v=6.3" height="680"/>
+  <img src="https://mystats.discloud.app/stats?user=titiomathias&v=6.5" height="680"/>
 </p>
 
 ---
